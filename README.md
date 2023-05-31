@@ -117,6 +117,12 @@ The properties that could also be visited for free were also shown:
 -----
 ## Conclusions
 
+In order to draw some conclusions for users who might be looking for NPS properties to visit, we came up with three recommendations:
+
+- Golden Gate Recreation Area, a free and highly visited NPS property close to many of our classmates
+- Great Smoky Mountains National Park, the free and most visited National Park.
+- Crater Lake National Park, the second least visited National Park with an Average Five Star Yelp Review
+
 -----
 ### Acknowledgements
 
