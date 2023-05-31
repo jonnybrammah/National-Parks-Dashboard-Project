@@ -104,6 +104,16 @@ However, some parks have the opposite pattern. National Parks like Joshua Tree a
 
 ![Joshua Tree Visitors](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Joshua%20Tree%20Monthly%20Visitors.png)
 
+Two other visualizations were also shown on the dashboard, depending on the designation of NPS Property selected. With the end-user in mind, we thought there might be people who want to visit the parks that are not typically most visited, or may want to visit free parks only.
+
+With this in mind, the next visualization displayed the "Hidden Gems" in this designation, which we defined as properties with the fewest visitors but a high yelp rating (an average of 5 stars, rounded up by the yelp API):
+
+![NP Hidden Gems](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/HiddenGems.png)
+
+The properties that could also be visited for free were also shown:
+
+![Free Visits](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/FreeVisits.png)
+
 -----
 ## Conclusions
 
