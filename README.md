@@ -1,6 +1,6 @@
 # National-Parks-Dashboard-Project
 
-![Yosemite National Park](https://www.usnews.com/object/image/0000017e-e523-de90-a17f-edb3388f0000/1-intro-stock.jpg?update-time=1644521797113&size=responsive970)
+![Yosemite National Park](https://roadtrippingcalifornia.com/wp-content/uploads/2022/06/El-Capitan-Yosemite.jpg)
 
 ## Project Overview
 
@@ -15,7 +15,16 @@ Our two visualizations are:
 -----
 
 ## Table of Contents
+1. [Overview of National Park Information]
+2. [Data Collection]
+3. [Data Visualizations]
+   - [Map Plot]
+   - [Dashboard]
+4. [Conclusions]
 
+-----
+
+## Overview of National Park Information
 
 -----
 
@@ -23,9 +32,10 @@ Our two visualizations are:
 
 Data was collected from a few places and later cleaned and transformed.
 - [The National Park Service API](https://www.nps.gov/subjects/developer/api-documentation.htm) which contained data about the locations and entry fees of National Park Service Lands, though not visitor information.
-- [National Park Visitor User Statistics](https://irma.nps.gov/Stats/) which contained data about how many visitors a National Park had each month going back for many years. This data was downloadable as csv files, but to simplify this process could also be scraped online.
+- [National Park Visitor User Statistics](https://irma.nps.gov/Stats/) which contained data about how many visitors a National Park had each month going back for many years. This data was downloadable as csv files, but with so many parks to download data from, this process could be simplified by scraping the information.
 - [Yelp API](https://fusion.yelp.com/) which contained information about average Yelp rating for the NPS Lands. This was used to let users know how parks were rated and to identify "Hidden Gems".
 
+-----
 
 ## Data Visualizations
 
@@ -33,6 +43,10 @@ Data was collected from a few places and later cleaned and transformed.
 
 ### Dashboard
 
+-----
 ## Conclusions
 
+-----
 ### Acknowledgements
+
+This project was completed with contributions from J. Brammah, K. Farabaugh, A. Hussain, and G. Jimenez.
