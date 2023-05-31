@@ -65,22 +65,44 @@ Two visualizations were produced to help people interested in learning more abou
 
 ### Map Plot
 
-The map was designed for people to see the location of parks, and find out basic information, so they could either see which properties are close to them, or plan a trip and see which properties are close to each other. The map initializes with showing the National Parks. A user can click a specific park to get more information, including the park designation, the entrance fee cost (and information) and the number of visitors last year:
+![Map Plot](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Map_all_parks.png)
 
+The map was designed for people to see the location of parks, and find out basic information, so they could either see which properties are close to them, or plan a trip and see which properties are close to each other. The map initializes with showing the National Parks. A user can click a specific park to get more information, including the park designation, the entrance fee cost (and information) and the number of visitors last year.
 
 The park clicked in the above image is Great Smoky Mountains National Park, and is far and away the most visited National Park with over 15 million visitors in 2022. For reference, other well-known parks (like Acadia, Yosemite, Zion, etc.) typically only attract around 4 million visitors. This could be attributable to the fact it has no entrance fee but in a cursory look, our group could not find any signifcant correlation between entrance fee cost and visitors in 2022.
+
+![National Recreation Areas](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/map_recreation_areas.png)
 
 A user can then select All NPS properties or specific and most visited designations to see similar information.
 
 Another point to note from this map are that the two most visited sites of any NPS properties are actually both Recreation Areas. These are Golden Gate Recreation Area in San Francisco and Gateway Recreation Area in New Jersey, close to New York City. This is likely because these are free parks close to major cities that are also major tourism hubs.
 
-
+![All Properties DC](https://github.com/jonnybrammah/National-Parks-Dashboard-Project/blob/main/Output/Images%20for%20Presentation/map_all_properties_dc.png)
 
 Finally, by looking at all properties on the map, you can see just how many properties there are in and around Washington D.C. This probably makes some intuitive sense if you have ever visited, because popular attractions like the Lincoln Memorial and the Washington Monument are actually under the purview of the National Parks Service. You can see that many of the circles in Washington D.C. are of a similar size (indicating similar number of visitors). Again, this makes some sense since visitors to D.C. are likely to visit many of these attractions over the same stay.
 
 
-
 ### Dashboard
+
+![Dashboard Initialization](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Dashboard%20Initialization.png)
+
+The second set of visualizations to help users was the information dashboard. As shown above, this inializes with Acadia National Park (the first National Park alphabetically). This dashboard shows the user some basic information like the total visitors, and the entrance fee, and how this property ranks in terms of visitorship. It also visualizes the average yelp rating, and the number of visitors per month across 2022.
+
+For most of the NPS properties, the graph looks similar to Acadia's, with summer being the most popular time to visit almost all parks. The graph below shows the number of visitors at all NPS properties for each month in 2022:
+
+![NPS Visitors By Month](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Visitors_By_Month_22(All_Properties).png)
+
+Some NPS properties have variations on this theme. For example, the peak for Indepedence Hall National Historic Park in Philadelphia peaks more visibly in July than other parks, likely owing to July 4th attracting more visitors:
+
+![Independence NHP Visitors](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Independence%20Hall%20NHP%20Monthly%20Visitors.png)
+
+Great Smoky Mountains National Park also differs slightly from Acadia (as do other parks) for having notable second peaks in Autumn:
+
+![GSM Visitors](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Great%20Smoky%20Mountains%20Monthly%20Visitors.png)
+
+However, some parks have the opposite pattern. National Parks like Joshua Tree and Death Valley, which are situated in the desert, typically have far fewer visitors in the summer months:
+
+![Joshua Tree Visitors](https://raw.githubusercontent.com/jonnybrammah/National-Parks-Dashboard-Project/main/Output/Images%20for%20Presentation/Joshua%20Tree%20Monthly%20Visitors.png)
 
 -----
 ## Conclusions
